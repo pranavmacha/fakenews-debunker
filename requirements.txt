@@ -1,0 +1,6 @@
+streamlit
+requests
+openai
+googlesearch-python
+google-generativeai
+python-dotenv
